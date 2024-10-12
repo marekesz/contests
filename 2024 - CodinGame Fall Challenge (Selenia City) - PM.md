@@ -2,7 +2,7 @@
 
 1st
 
-I enjoyed the contest and the game was nice, although I prefer bot programming. Mastering the engine was moderately difficult and optimizable.
+I enjoyed the contest and the game was nice, although I prefer bot programming. Mastering the engine was moderately difficult, and the engine was optimizable.
 
 The most troublesome thing was the need to adjust to particular test cases, which, moreover, we could only guess how much they will vary from the public ones. Fine-tuning for tests was a major concern to worry about, i.e., that a totally general agnostic algorithm would not be competitive, and on the other side, that assuming too much would spoil everything. I think it would be better to publish the generator and, for example, say there will be 100 uniformly random seeds or so. This would give the results more fair, not so dependent on untestable assumptions and luck.
 
