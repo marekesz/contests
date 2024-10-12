@@ -1,4 +1,4 @@
-(Post Mortem for [Spring Challenge -- Ants 2023](https://www.codingame.com/contests/spring-challenge-2023))
+(Post Mortem for [Spring Challenge 2023 (Ants)](https://www.codingame.com/contests/spring-challenge-2023))
 
 1st
 
