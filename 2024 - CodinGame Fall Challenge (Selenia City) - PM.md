@@ -59,7 +59,9 @@ Test 12: 901 280
 Total: 7 097 422
 ```
 
-An example replay with test 12: [https://www.codingame.com/replay/807001223](https://www.codingame.com/replay/807001223) .
+Example replay with test 8: [https://www.codingame.com/replay/822629219](https://www.codingame.com/replay/822629219) .
+
+Example replay with test 12: [https://www.codingame.com/replay/807001223](https://www.codingame.com/replay/807001223) .
 
 The number of simulations (score computations) for Test 8 (Grid), in the first turn without the mentioned greedy optimization: 98 536 (the average over 5 runs).
 
